@@ -15,8 +15,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\nunes\Documents\Mega pasta pessoal\GitHub\testeDesenvolvimentoCsharp\AplicacaoProjetoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/GitHub/testeDesenvolvimentoCsharp/AplicacaoProjetoMVC/Views/Contato/Apagar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXIuY3NodG1s
+[C:/Users/nunes/Documents/Mega pasta pessoal/GitHub/testeDesenvolvimentoCsharp/AplicacaoProjetoMVC/Views/Contato/ApagarConfirma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nunes/Documents/Mega pasta pessoal/GitHub/testeDesenvolvimentoCsharp/AplicacaoProjetoMVC/Views/Contato/Criar.cshtml]
