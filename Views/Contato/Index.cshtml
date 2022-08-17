@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Contatos dos clientes";
+}
+
+<div class="text-center">
+
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="Criar">Adiconar novo cliente</a>
+    </div>
+    <br />
+    <h1 class="display-4">Clientes</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CPF</th>
+      <th scope="col">Município</th>
+      <th scope="col">UF</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Diego Nunes</td>
+      <td>050.892.219-44</td>
+      <td>São José</td>
+      <td>SC</td>
+      <td>
+          <div class="btn-group" role="group">
+              <a role="button" class="btn btn-primary">Editar</a>
+              <a role="button" class="btn btn-danger">Apagar</a>
+          </div>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Luiz Gonzaga Simas</td>
+      <td>098.987.876-11</td>
+      <td>Florianópolis</td>
+      <td>SC</td>
+      <td>
+          <div class="btn-group" role="group">
+              <a role="button" class="btn btn-primary">Editar</a>
+              <a role="button" class="btn btn-danger">Apagar</a>
+          </div>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Cacilda Regina Nunes</td>
+      <td>123.234.345-00</td>
+      <td>São José</td>
+      <td>SC</td>
+      <td>
+          <div class="btn-group" role="group">
+              <a role="button" class="btn btn-primary">Editar</a>
+              <a role="button" class="btn btn-danger">Apagar</a>
+          </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
